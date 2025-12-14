@@ -1,4 +1,3 @@
-# NLP_Project
 
 This project explores multimodal learning on clinical imaging data by combining vision–language models and large language models for medical image understanding and captioning.
 
